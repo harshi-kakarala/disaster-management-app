@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917613455574",
+    "project_id": "disaster-safety-android-app",
+    "storage_bucket": "disaster-safety-android-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917613455574:android:614da022d65a9cd5d54177",
+        "android_client_info": {
+          "package_name": "com.example.shash.earthquake4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1680PHUPzztynRqUNww8DDlIwZBxTubM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
